@@ -1,4 +1,57 @@
 {
-  "schema": 1,
-  "charts": {}
+  "charts": {
+    "albuquerque": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_albuquerque.jpg",
+      "version": "2609"
+    },
+    "anchorage": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_anchorage.jpg",
+      "version": "2609"
+    },
+    "atlanta": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_atlanta.jpg",
+      "version": "2609"
+    },
+    "bethel": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_bethel.jpg",
+      "version": "2609"
+    },
+    "billings": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_billings.jpg",
+      "version": "2609"
+    },
+    "brownsville": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_brownsville.jpg",
+      "version": "2609"
+    },
+    "cape_lisburne": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cape_lisburne.jpg",
+      "version": "2609"
+    },
+    "charlotte": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_charlotte.jpg",
+      "version": "2609"
+    },
+    "cheyenne": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cheyenne.jpg",
+      "version": "2609"
+    },
+    "chicago": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_chicago.jpg",
+      "version": "2609"
+    },
+    "cincinnati": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cincinnati.jpg",
+      "version": "2609"
+    },
+    "cold_bay": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cold_bay.jpg",
+      "version": "2609"
+    },
+    "miami": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_miami.jpg",
+      "version": "2609"
+    }
+  },
+  "schema": 1
 }
