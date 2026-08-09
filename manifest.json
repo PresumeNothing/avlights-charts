@@ -9,8 +9,8 @@
       "version": "2609"
     },
     "atlanta": {
-      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_gone_atlanta.jpg",
-      "version": "9999"
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_atlanta.jpg",
+      "version": "2609"
     },
     "bethel": {
       "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_bethel.jpg",
@@ -37,20 +37,20 @@
       "version": "2609"
     },
     "chicago": {
-      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_gone_chicago.jpg",
-      "version": "9999"
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_chicago.jpg",
+      "version": "2609"
     },
     "cincinnati": {
-      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_gone_cincinnati.jpg",
-      "version": "9999"
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cincinnati.jpg",
+      "version": "2609"
     },
     "cold_bay": {
       "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cold_bay.jpg",
       "version": "2609"
     },
     "miami": {
-      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_gone_miami.jpg",
-      "version": "9999"
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_miami.jpg",
+      "version": "2609"
     }
   },
   "schema": 1
