@@ -51,6 +51,10 @@
     "miami": {
       "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_miami.jpg",
       "version": "2609"
+    },
+    "new_york": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_new_york.jpg",
+      "version": "2609"
     }
   },
   "schema": 1
