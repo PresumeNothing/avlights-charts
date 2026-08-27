@@ -48,12 +48,156 @@
       "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_cold_bay.jpg",
       "version": "2609"
     },
+    "dallas": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_dallas.jpg",
+      "version": "2609"
+    },
+    "denver": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_denver.jpg",
+      "version": "2609"
+    },
+    "detroit": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_detroit.jpg",
+      "version": "2609"
+    },
+    "dutch_harbor": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_dutch_harbor.jpg",
+      "version": "2609"
+    },
+    "el_paso": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_el_paso.jpg",
+      "version": "2609"
+    },
+    "fairbanks": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_fairbanks.jpg",
+      "version": "2609"
+    },
+    "great_falls": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_great_falls.jpg",
+      "version": "2609"
+    },
+    "green_bay": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_green_bay.jpg",
+      "version": "2609"
+    },
+    "hawaiian_islands": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_hawaiian_islands.jpg",
+      "version": "2609"
+    },
+    "houston": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_houston.jpg",
+      "version": "2609"
+    },
+    "jacksonville": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_jacksonville.jpg",
+      "version": "2609"
+    },
+    "juneau": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_juneau.jpg",
+      "version": "2609"
+    },
+    "kansas_city": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_kansas_city.jpg",
+      "version": "2609"
+    },
+    "ketchikan": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_ketchikan.jpg",
+      "version": "2609"
+    },
+    "klamath_falls": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_klamath_falls.jpg",
+      "version": "2609"
+    },
+    "kodiak": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_kodiak.jpg",
+      "version": "2609"
+    },
+    "lake_huron": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_lake_huron.jpg",
+      "version": "2609"
+    },
+    "las_vegas": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_las_vegas.jpg",
+      "version": "2609"
+    },
+    "los_angeles": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_los_angeles.jpg",
+      "version": "2609"
+    },
+    "mcgrath": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_mcgrath.jpg",
+      "version": "2609"
+    },
+    "memphis": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_memphis.jpg",
+      "version": "2609"
+    },
     "miami": {
       "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_miami.jpg",
       "version": "2609"
     },
+    "new_orleans": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_new_orleans.jpg",
+      "version": "2609"
+    },
     "new_york": {
       "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_new_york.jpg",
+      "version": "2609"
+    },
+    "nome": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_nome.jpg",
+      "version": "2609"
+    },
+    "omaha": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_omaha.jpg",
+      "version": "2609"
+    },
+    "phoenix": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_phoenix.jpg",
+      "version": "2609"
+    },
+    "point_barrow": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_point_barrow.jpg",
+      "version": "2609"
+    },
+    "salt_lake_city": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_salt_lake_city.jpg",
+      "version": "2609"
+    },
+    "san_antonio": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_san_antonio.jpg",
+      "version": "2609"
+    },
+    "san_francisco": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_san_francisco.jpg",
+      "version": "2609"
+    },
+    "seattle": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_seattle.jpg",
+      "version": "2609"
+    },
+    "seward": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_seward.jpg",
+      "version": "2609"
+    },
+    "st_louis": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_st_louis.jpg",
+      "version": "2609"
+    },
+    "twin_cities": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_twin_cities.jpg",
+      "version": "2609"
+    },
+    "washington": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_washington.jpg",
+      "version": "2609"
+    },
+    "western_aleutian_islands": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_western_aleutian_islands.jpg",
+      "version": "2609"
+    },
+    "wichita": {
+      "url": "https://github.com/PresumeNothing/avlights-charts/releases/download/charts-2609/map_wichita.jpg",
       "version": "2609"
     }
   },
